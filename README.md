@@ -1,4 +1,7 @@
 # NFV-network-topology-inference
+Citation:
+Yilei Lin, Ting He, Shiqiang Wang, Kevin S. Chan, and Stephen Pasteris, "Looking Glass of NFV: Inferring the Structure and State of NFV Network from External Observations", IEEE/ACM Transactions on Networking, accepted March 2020.
+
 This work is aim to infer NFV network topology with both single source and multiple sources.
 The code is done by matlab and we use Cplex to deal with ILP to reduce running time.
 
